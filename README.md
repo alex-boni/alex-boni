@@ -1,6 +1,6 @@
 # 💫 About Me:
-🧑🏽‍💻​ Futuro Ingeniero en Software.<br>📗​ Universidad Complutense de Madrid (UCM)
-<br> Me apasiona el código y la gestión de equipos en el desarrollo de proyectos software.
+🧑🏽‍💻​ Ingeniero de Software.<br>📗​ Universidad Complutense de Madrid (UCM)
+<br> Me apasiona el código, los algoritmos, el trabajo en quipo y la gestión de ellos en el desarrollo de proyectos software.
 <br> Actualmente, me encuentro desarrollando proyectos académicos web en Node.js, Spring-boot, entre otros....
 
 
